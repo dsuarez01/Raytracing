@@ -3,3 +3,6 @@
 
 # Ignore VSC settings
 /.vscode/
+
+# Ignore DS_Store
+/.DS_Store
